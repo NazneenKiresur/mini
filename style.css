@@ -1,0 +1,57 @@
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    background-color:lightsalmon;  
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+}  
+.login{  
+        width: 382px;  
+        overflow: hidden;  
+        margin: auto;  
+        margin: 20 0 0 450px;  
+        padding: 80px;  
+        background:wheat;  
+        border-radius: 15px ;  
+          
+}  
+h2{  
+    text-align: center;  
+    color:cornflowerblue;  
+    padding: 20px;  
+}  
+label{  
+    color: black;  
+    font-size: 25px;  
+}  
+#Uname{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#Pass{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+      
+}  
+#log{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color:darkolivegreen;
+    background:peru;  
+    font-size: 15px;
+  
+  
+}  
+span{  
+    color: black;  
+    font-size: 17px;  
+}  
